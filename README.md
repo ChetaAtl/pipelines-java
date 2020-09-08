@@ -1,3 +1,4 @@
+[![Build Status](https://devants.visualstudio.com/Proj1/_apis/build/status/ChetaAtl.pipelines-java?branchName=master)](https://devants.visualstudio.com/Proj1/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
